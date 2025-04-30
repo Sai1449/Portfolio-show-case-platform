@@ -1,6 +1,7 @@
 # Portfolio-show-case-platform
 # Overview
 CreativePort is a modern, responsive portfolio platform designed for creatives, developers, and professionals to showcase their work. This web application allows users to create, manage, and display their projects, certificates, and professional information in an elegant, customizable interface.
+
 # Features
 Project Management: Add, edit, and delete projects with rich details
 
@@ -11,33 +12,56 @@ About Section: Customizable personal profile section
 Tech Stack Visualization: Interactive display of technical skills
 
 Responsive Design: Fully functional on all device sizes
+
 # Interactive Elements
 Drag-and-drop file uploads for projects and certificates
+
 Animated UI components with smooth transitions
+
 Toast notifications for user feedback
+
 Modal dialogs for forms and actions
+
 Tab-based navigation between sections
+
 # Technical Features
 Local storage for persistent data
+
 Form validation
+
 File preview functionality
+
 Social media link integration
+
 Custom animations and visual effects
+
 # Technologies Used
 Frontend
+
 HTML5: Semantic markup
+
 CSS3: Custom animations, transitions, and responsive design
+
 JavaScript: Interactive functionality and DOM manipulation
+
 Tailwind CSS: Utility-first CSS framework
+
 Font Awesome: Icon library
+
 Google Fonts: Poppins and Montserrat font families
+
 # Development Tools
 Visual Studio Code (or any code editor)
+
 Git for version control
+
 GitHub for project hosting
+
 Xampp Server
+
 # Project Structure
 CreativePort/ ├── create.html # Main portfolio creation interface ├── front.html # Landing page with marketing content ├── explore.html # (Planned) Explore other portfolios ├── about.html # (Planned) About the platform page ├── feedback.html # (Planned) User feedback page ├── your.html # (Planned) User profile page ├── index.html # (Planned) User settings page ├── templates.html # (Planned) Template selection page ├── README.md # This documentation file
+
 # Tools Needed
 1. Tailwnd Installation
 2. Node Js
