@@ -3,9 +3,13 @@
 CreativePort is a modern, responsive portfolio platform designed for creatives, developers, and professionals to showcase their work. This web application allows users to create, manage, and display their projects, certificates, and professional information in an elegant, customizable interface.
 # Features
 Project Management: Add, edit, and delete projects with rich details
+
 Certificate Showcase: Display professional certifications with verification links
+
 About Section: Customizable personal profile section
+
 Tech Stack Visualization: Interactive display of technical skills
+
 Responsive Design: Fully functional on all device sizes
 # Interactive Elements
 Drag-and-drop file uploads for projects and certificates
